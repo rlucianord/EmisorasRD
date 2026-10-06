@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Emisoras RD</string>
+    <string name="search_hint">Buscar emisora...</string>
+    <string name="refresh">Actualizar</string>
+    <string name="favorites">Favoritos</string>
+    <string name="all_stations">Todas</string>
+    <string name="news">Noticias</string>
+    <string name="no_results">No encontramos emisoras con esos criterios.</string>
+    <string name="loading">Cargando emisoras...</string>
+    <string name="error_loading">No fue posible actualizar el catálogo. Revisa tu conexión.</string>
+    <string name="play">Reproducir</string>
+    <string name="pause">Pausar</string>
+    <string name="favorite">Favorito</string>
+    <string name="remove_favorite">Quitar de favoritos</string>
+    <string name="news_title">Noticias y RSS</string>
+</resources>

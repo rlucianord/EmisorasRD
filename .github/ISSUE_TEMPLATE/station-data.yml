@@ -1,0 +1,24 @@
+name: Corrección de emisora
+description: Reportar un cambio o error en los datos de una emisora
+body:
+  - type: input
+    id: station
+    attributes:
+      label: Emisora
+      placeholder: Nombre oficial
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Fuente verificable
+      placeholder: Sitio oficial o fuente regulatoria
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Cambio propuesto
+      placeholder: Explica qué dato debe cambiar y por qué.
+    validations:
+      required: true
